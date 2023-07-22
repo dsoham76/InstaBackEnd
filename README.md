@@ -19,16 +19,16 @@
 
 2.  Services
 
-        1.1 UserService
+        2.1 UserService
                 - signUpUser(User user)
                 - signInUser(SignInInput signInInput)
                 - sigOutUser(String email)
 
-        1.2 Post Service
+        2.2 Post Service
                 - createInstaPost(Post post, String email)
                 - removeInstaPost(Integer postId,String email)
 
-        1.3 Authentication Service
+        2.3 Authentication Service
                 - authenticate(String email, String authTokenValue)
                 - saveAuthToken(AuthenticationToken authToken)
                 - findFirstByUser(User user)
@@ -36,9 +36,9 @@
 
 3.  Repository
 
-        1.1 User Repo
-        1.2 Autentication Repo
-        1.3 Post Repo
+        3.1 User Repo
+        3.2 Autentication Repo
+        3.3 Post Repo
 
 4.  Database Design
 
