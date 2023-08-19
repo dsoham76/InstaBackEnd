@@ -68,4 +68,4 @@
 
 ## Project Summary
 
-    The InstaBackEnd API  is a comprehensive software solution designed to keep track of orders . The system provides a centralized platform that enables  user to create, read, edit, and delete post.
+    The InstaBackEnd API  is a comprehensive software solution designed to keep track of post . The system provides a centralized platform that enables  user to create, read, edit, and delete post.
